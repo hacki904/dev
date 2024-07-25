@@ -1,0 +1,6 @@
+{
+    "editor.accessibilitySupport": "off",
+    "window.title": "{dirty}${activeEditorS}",
+    "terminal.integrated.tabs.description": "{task}${separator}${local}${separator}",
+    "terminal.integrated.tabs.title": "{process}"
+}
